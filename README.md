@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WenJJ2000
 - 👀 I’m interested in robotics and cryptocurrency
 - 🌱 I’m currently learning how crypto works
-- 💞️ I’m looking to collaborate on and Web 3 related projects
+- 💞️ I’m looking to collaborate on and Web 3 and robotics related projects
 - 📫 How to reach me @wenjunjie14@gmail.com
 
 <!---
